@@ -1,4 +1,4 @@
-<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0088.gif" alt="Welcome Banner" width="100%" />
+<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0088.gif" alt="Welcome Banner" width="50%" />
 <h1 align="center">Hi 👋, I'm Tehreem Fatima</h1>
 <h3 align="center">Passionate Web Developer & Agentic AI Enthusiast from Pakistan | Building future-ready digital experiences with intelligence and innovation.</h3>
 <img align="right" alt="pic" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPRKxBOAMXwcU-xN-K7d-II-ZZBiP0nHUrg&s">
