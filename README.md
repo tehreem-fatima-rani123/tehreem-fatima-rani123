@@ -1,7 +1,6 @@
-<img  align="center" src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0088.gif" alt="Welcome Banner" width="40%" />
+<img  align="right" src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0088.gif" alt="Welcome Banner" width="40%" />
 <h1 align="center">Hi 👋, I'm Tehreem Fatima</h1>
 <h3 align="center">Passionate Web Developer & Agentic AI Enthusiast from Pakistan | Building future-ready digital experiences with intelligence and innovation.</h3>
-<img align="right" alt="pic" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPRKxBOAMXwcU-xN-K7d-II-ZZBiP0nHUrg&s">
 <p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="tehreem-fatima-rani123" /> </p>
 
 - 🌱 I’m currently learning **Agentic AI**
