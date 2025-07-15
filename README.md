@@ -1,4 +1,4 @@
-<img align="center" alt="pic" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmist941&psig=AOvVaw1Nd_iR6WPldMCMvg2oskop&ust=1752657579737000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiW2azEvo4DFQAAAAAdAAAAABAK">
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" alt="Welcome Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Tehreem Fatima</h1>
 <h3 align="center">Passionate Web Developer & Agentic AI Enthusiast from Pakistan | Building future-ready digital experiences with intelligence and innovation.</h3>
 <img align="right" alt="pic" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPRKxBOAMXwcU-xN-K7d-II-ZZBiP0nHUrg&s">
