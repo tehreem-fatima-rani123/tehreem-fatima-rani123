@@ -1,4 +1,4 @@
-<img  align="center" src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0088.gif" alt="Welcome Banner" width="40%" />
+<img  align="center" src="https://www.gifs.cc/welcome/2019-welcome-flowing-animation.gif" alt="Welcome Banner" width="40%" />
 <h3 align="center">Passionate Web Developer & Agentic AI Enthusiast from Pakistan | Building future-ready digital experiences with intelligence and innovation.</h3>
 <p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="tehreem-fatima-rani123" /> </p>
 
