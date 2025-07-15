@@ -1,3 +1,5 @@
+
+<img align="center" alt="pic" width="500" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPRKxBOAMXwcU-xN-K7d-II-ZZBiP0nHUrg&s](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FShubhangiSisodia%2FShubhangiSisodia&psig=AOvVaw0Mfkwi64Asr8eBR4Dic7fw&ust=1752657360714000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiL0c3Dvo4DFQAAAAAdAAAAABAE)">
 <h1 align="center">Hi 👋, I'm Tehreem Fatima</h1>
 <h3 align="center">Passionate Web Developer & Agentic AI Enthusiast from Pakistan | Building future-ready digital experiences with intelligence and innovation.</h3>
 <img align="right" alt="pic" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPRKxBOAMXwcU-xN-K7d-II-ZZBiP0nHUrg&s">
