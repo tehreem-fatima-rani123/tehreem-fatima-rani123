@@ -1,4 +1,4 @@
-<img  align="center" src="https://www.gifs.cc/welcome/2019-welcome-flowing-animation.gif" alt="Welcome Banner" width="40%" />
+<img  align="center" src="https://raw.githubusercontent.com/gist/andreruffert/f14990306ff0c9b5e3ef01439e16555e/raw/cab4f3a1623ba0eb68d4472db029b86a294af388/%F0%9F%91%8B.gif" alt="Welcome Banner" width="40%" />
 <h3 align="center">Passionate Web Developer & Agentic AI Enthusiast from Pakistan | Building future-ready digital experiences with intelligence and innovation.</h3>
 <p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="tehreem-fatima-rani123" /> </p>
 
