@@ -1,0 +1,26 @@
+# hi
+## hi
+### hi
+##### hi
+
+**bold**  
+*italic*  
+***bold + italic***  
+_italic_
+
+1. hello
+2. hello
+3. hello
+
+- unorder
+- unorder
+
+`naina`  
+~~naina~~
+
+hello  <br>
+world
+
+```python
+def main():
+    return "hello"
